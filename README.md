@@ -1,2 +1,3 @@
-Hello world # MyAppSample
-Sample App For Tutorial
+# MyAppSample
+Sample App For Learning
+HELLO WORLD!
